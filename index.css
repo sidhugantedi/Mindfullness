@@ -1,0 +1,55 @@
+body {
+	
+}
+
+.navbar-default {
+	text-align: center;
+}
+.navbar-brand {
+	color: #000 !important;
+}
+.nav li a {
+	color: #000 !important;
+	text-slign: center;
+	font-size: 18px;
+	margin-right: 25px;
+	padding: 10px 0px;
+}
+.nav li a:hover {
+	border-bottom: 2px solid red;
+	padding-bottom: 8px;
+}
+
+
+.jumbotron {
+	background: url("https://static.pexels.com/photos/158607/cairn-fog-mystical-background-158607.jpeg") center center;
+	background-size: cover;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	text-align: center;
+	margin: 0;
+	letter-spacing: 2.5px;
+}
+.jumbotron h1 {
+	color: #fff !important;
+}
+
+.icons {
+	text-align: center;
+	margin: 10px;
+	padding: 10px;
+}
+.content h1 {
+	text-transform: uppercase;
+}
+.point-3 {
+	font-size: 25px;
+}
+.enroll {
+	text-align: center;
+	padding: 10px;
+}
+.footer {
+	text-align: center;
+	border: 1px solid #fff;
+}
